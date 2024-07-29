@@ -25,7 +25,7 @@ export default async function on({ cht, Exp, store, ev, is }) {
        let type = ev.getMediaType()
        let res = await exif[type == "image" ? "writeExifImg" : "writeExifVid"](media, {
 				packname: 'sseeeetiiiikeeeeerrrr',
-				author: 'vivy'
+				author: 'Yuuka'
 			})
        Exp.sendMessage(cht.id, { sticker: { url: res } }, { quoted: cht })
     })
