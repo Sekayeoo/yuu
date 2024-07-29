@@ -63,7 +63,7 @@ infos.set = `
 - public <on/off>
 - autotyping <on/off>
 - autoreadsw <on/off>
-- vy <on/off>
+- yuu <on/off>
 - autoreadpc <on/off>
 - autoreadgc <on/of>
 
