@@ -1,0 +1,86 @@
+{
+  "total": 144,
+  "ai_response": 574,
+  "cmd": [
+    {
+      "name": "pinterest",
+      "use": 18,
+      "times": "27/07 09:41:07"
+    },
+    {
+      "name": "menu",
+      "use": 19,
+      "times": "29/07 14:04:03"
+    },
+    {
+      "name": "sticker",
+      "use": 5,
+      "times": "27/07 09:57:32"
+    },
+    {
+      "name": "ai",
+      "use": 3,
+      "times": "29/07 14:04:03"
+    },
+    {
+      "name": "profile",
+      "use": 12,
+      "times": "24/07 16:47:28"
+    },
+    {
+      "name": "set",
+      "use": 21,
+      "times": "29/07 12:39:48"
+    },
+    {
+      "name": "s",
+      "use": 13,
+      "times": "29/07 11:43:46"
+    },
+    {
+      "name": "lora",
+      "use": 24,
+      "times": "24/07 22:02:35"
+    },
+    {
+      "name": "ytm4a",
+      "use": 10,
+      "times": "27/07 12:14:27"
+    },
+    {
+      "name": "luma",
+      "use": 1,
+      "times": "24/07 08:31:02"
+    },
+    {
+      "name": "status",
+      "use": 8,
+      "times": "25/07 21:57:45"
+    },
+    {
+      "name": "covers",
+      "use": 3,
+      "times": "29/07 14:04:03"
+    },
+    {
+      "name": "imgtoprompt",
+      "use": 1,
+      "times": "29/07 14:04:03"
+    },
+    {
+      "name": "text2img",
+      "use": 2,
+      "times": "29/07 14:04:03"
+    },
+    {
+      "name": "txt2img",
+      "use": 1,
+      "times": "29/07 14:04:03"
+    },
+    {
+      "name": "vy2speech",
+      "use": 3,
+      "times": "29/07 16:09:18"
+    }
+  ]
+}
