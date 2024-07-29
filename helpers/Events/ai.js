@@ -124,7 +124,7 @@ export default async function on({ Exp, ev, store, cht, ai, is }) {
 	})
 	
 	ev.on({ 
-        cmd: ['vy2speech'],
+        cmd: ['yuu2speech'],
         energy: 5
     }, async() => {
         if(!cht.q) return cht.edit("Harap sertakan teks untuk diucapkan!", key[sender])
